@@ -15,4 +15,16 @@
     #header .navbar-collapse {
         width: 100%;
     }
+    #ysecao .foto1 {
+        max-width: 150px;
+    }
+    #ysecao .foto2 {
+        max-width: 150px;
+    }
+    #ysecao .foto3 {
+        max-width: 150px;
+    }
+    #ysecao .foto4 {
+        max-width: 150px;
+    }
 }
